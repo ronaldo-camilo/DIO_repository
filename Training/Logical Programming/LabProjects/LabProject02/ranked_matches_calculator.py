@@ -34,7 +34,6 @@ def level():
 print("----------------------------------------------")
 print(" ||| Welcome to Ranked Matches Calculator ||| ")
 print("----------------------------------------------")
-#print()
 
 print("Please enter the ammount of Victories:")
 win = int(input())
@@ -42,10 +41,8 @@ win = int(input())
 print("Please enter the ammount of Defeats:")
 lose = int(input())
 
-#print()
 print("\nThe Hero has " + str(winBalance()) + " win(s) balance and received the " + str(level()) + " title !")
 
-#print()
 if(winBalance() <= 0):
     print("\n-----------------------")
     print("||| Keep Trying !!! |||")
