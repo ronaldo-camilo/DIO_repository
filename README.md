@@ -21,6 +21,6 @@ Created to organize and show all Lab Projects/Challenges from DIO Trainings and 
 
 ### ***3 - Python Fundamentals***
 #### 3.1 -Code Challenges
-###### Exploring Python Foundations
+###### **Exploring Python Foundations**
 [Parity Check]()
 
