@@ -15,9 +15,10 @@ The entire process described must be programmed in C language on the Arduino pro
 ### Project Details
 
 #### Assembly Image
-![[LabProjectDIO_01.png]]
+![](Images/LabProjectDIO_01.png)
 #### Electrical Drawning
-![[LabProjectDIO_01.pdf]]
+![](Images/LabProjectDIO_01_Drawing.jpg)
+
 #### Component List
 
 | Name   | Quantity | Component                  |
