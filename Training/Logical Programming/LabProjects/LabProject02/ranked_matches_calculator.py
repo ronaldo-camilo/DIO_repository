@@ -7,7 +7,7 @@ def winBalance():
 def level():
     if(winBalance() <= 0):
         level = "Newbie"
-    
+
     elif(winBalance() > 0 and winBalance() <= 10):
         level = "Iron"
     
